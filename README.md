@@ -8,7 +8,7 @@
   <a href="https://github.com/damifts">
     <img src="https://img.shields.io/badge/GitHub-damifts-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://damifts.github.io/">
+  <a href="https://damifts.github.io/damifts/">
     <img src="https://img.shields.io/badge/Portfolio-Live%20on%20Pages-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Products-14B8A6?style=for-the-badge" alt="Focus" />
@@ -51,7 +51,7 @@ I like shipping fast prototypes and hardening them into maintainable projects.
 ## Contact
 
 - GitHub: https://github.com/damifts
-- Portfolio: https://damifts.github.io/
+- Portfolio: https://damifts.github.io/damifts/
 
 ---
 
