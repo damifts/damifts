@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Damiano Pulvirenti | AI Portfolio</title>
+  <meta name="description" content="Portfolio AI-first di Damiano Pulvirenti: computer vision, LLM apps e automazioni reali basate sui repository pubblici GitHub." />
+  <meta name="theme-color" content="#0b1020" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="ambient ambient-left"></div>
+  <div class="ambient ambient-right"></div>
+
+  <header class="site-header">
+    <a class="brand" href="https://github.com/damifts" target="_blank" rel="noreferrer">
+      <span class="dot"></span> damifts
+    </a>
+    <nav class="top-nav">
+      <a href="#projects">Projects</a>
+      <a href="#focus">Focus</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="hero reveal">
+      <p class="eyebrow">AI BUILDER · COMPUTER VISION · LLM APPS</p>
+      <h1>Damiano Pulvirenti</h1>
+      <p class="hero-copy">
+        Progetto prodotti AI pratici: dalla computer vision con YOLO alle app didattiche con API LLM,
+        con attenzione a UX, sicurezza e deployment reale.
+      </p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="https://github.com/damifts?tab=repositories" target="_blank" rel="noreferrer">Vedi tutti i repository</a>
+        <a class="btn btn-ghost" href="https://github.com/damifts" target="_blank" rel="noreferrer">Profilo GitHub</a>
+      </div>
+      <div class="stats" id="focus">
+        <article>
+          <h3>5+</h3>
+          <p>Repository pubblici attivi</p>
+        </article>
+        <article>
+          <h3>AI-first</h3>
+          <p>Vision, tutoring e workflow automation</p>
+        </article>
+        <article>
+          <h3>Python</h3>
+          <p>Stack centrale con FastAPI e Streamlit</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section reveal" id="projects">
+      <div class="section-head">
+        <h2>Repository in evidenza</h2>
+        <p>Selezione basata sui progetti pubblici presenti su GitHub.</p>
+      </div>
+      <div class="repo-grid" id="repoGrid" aria-live="polite"></div>
+    </section>
+
+    <section class="section reveal timeline">
+      <div class="section-head">
+        <h2>Come lavoro</h2>
+      </div>
+      <ul>
+        <li><span>01</span> Ideazione rapida del caso d'uso e validazione del problema.</li>
+        <li><span>02</span> Prototipo tecnico con stack minimale e testabile.</li>
+        <li><span>03</span> Deploy incrementale e misurazione feedback utente.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="contact">
+    <p>Disponibile per collaborazioni su AI products, automation e API integrations.</p>
+    <a href="https://github.com/damifts" target="_blank" rel="noreferrer">github.com/damifts</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
