@@ -25,7 +25,7 @@ I like shipping fast prototypes and hardening them into maintainable projects.
 - [tutor-ai-api-streamlit](https://github.com/damifts/tutor-ai-api-streamlit): generic AI tutor based on API integrations.
 - [InstagramManager-MVP](https://github.com/damifts/InstagramManager-MVP): workflow automation for social operations.
 - [python-course](https://github.com/damifts/python-course): hands-on Python exercises and study notes.
-- [damifts](https://github.com/damifts/damifts): GitHub profile repository with the root GitHub Pages website.
+- [damifts.github.io](https://github.com/damifts/damifts.github.io): repository that serves the root GitHub Pages website.
 
 ## Tech stack
 
