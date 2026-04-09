@@ -1,67 +1,82 @@
 <div align="center">
 
-# 👋 Ciao, sono Damiano Pulvirenti
+# 🧪 DAMIFTS • AI LAB
 
-### AI/ML Engineer · Full Stack Developer · ITS Rizzoli
-
-![Profile views](https://komarev.com/ghpvc/?username=damifts&color=blueviolet&style=flat-square)
-![AI Badge](https://img.shields.io/badge/AI%20%26%20ML-Engineer-1f6feb?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%F0%9F%A7%A0;Machine+Learning+%F0%9F%94%A5;Deep+Learning+%F0%9F%8C%8A;Computer+Vision+%F0%9F%91%81%EF%B8%8F;LLMs+%26+Generative+AI+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 Su di me
-
-- 🎓 Studente ITS Rizzoli con focus su **AI, Machine Learning e Deep Learning**
-- 🔥 Lavoro con **PyTorch, Keras, TensorFlow** per progetti di computer vision e NLP
-- 🚀 Costruisco applicazioni AI con **Streamlit, Gemini API, YOLO**
-- 📚 In costante apprendimento — vedi il mio [python-course](https://github.com/damifts/python-course)
-- 📬 Contatti: damiano.pulvirenti@itsrizzoli.it
-
----
-
-## 🚀 Progetti in evidenza
-
-| Progetto | Descrizione | Stack |
-|----------|-------------|-------|
-| [🎓 tutor-ai-api-streamlit](https://github.com/damifts/tutor-ai-api-streamlit) | Tutor AI con Streamlit + Gemini API | Python, Streamlit |
-| [👁️ YOLO-Talk](https://github.com/damifts/YOLO-Talk) | Visione artificiale con YOLO | Python, MIT |
-| [🔥 pytorch-mnist-from-scratch](https://github.com/damifts/pytorch-mnist-from-scratch) | MNIST con PyTorch da zero | Jupyter, PyTorch |
-| [🧠 keras3-multi-backend-mnist](https://github.com/damifts/keras3-multi-backend-mnist) | MNIST multi-backend con Keras 3 | Jupyter, Keras |
-| [📱 InstagramManager-MVP](https://github.com/damifts/InstagramManager-MVP) | Gestione account Instagram | Python |
-
----
-
-## 🛠️ Tech stack
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub stats
+## 🔬 STACK SPERIMENTALE
 
 <div align="center">
 
-![Damiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=damifts&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damifts&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=damifts&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
 ---
 
+## 🧪 ESPERIMENTI IN CORSO
+
 <div align="center">
 
-*"Turning data into intelligence, one model at a time."*
+| 🧬 Progetto | 📊 Descrizione | 🧠 Tipo |
+|:---|:---|:---|
+| **YOLO-Talk** | Object Detection + Conversazione AI in tempo reale | `Computer Vision` `LLM` |
+| **Tutor AI API** | Assistente AI generico via API Streamlit + Gemini | `LLM` `Web App` |
+| **Keras3 Multi-Backend MNIST** | Classificazione MNIST con Keras 3 multi-backend | `Deep Learning` |
+| **PyTorch MNIST from Scratch** | Implementazione rete neurale da zero | `Deep Learning` |
+| **Instagram Manager MVP** | Automazione gestione contenuti con AI | `Automation` `AI` |
+
+</div>
+
+---
+
+## 🌐 PORTFOLIO LIVE
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-damifts.github.io-9B59B6?style=for-the-badge&logo=github&logoColor=white&labelColor=8E44AD)](https://damifts.github.io)
+
+</div>
+
+---
+
+## 🔮 HUB PRINCIPALE
+
+<div align="center">
+
+<br>
+
+🔬 **Questo è il mio LABORATORIO di AI/ML**
+
+🚀 **Per vedere TUTTI i miei progetti**  
+(Full Stack, Game Dev, Bot e molto altro)  
+visita il mio hub principale:
+
+<br>
+
+[![Main Hub](https://img.shields.io/badge/🚀_MAIN_HUB-dmnplv-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=E65A00)](https://github.com/dmnplv)
+
+<br>
+
+⭐ **È lì che trovi il QUADRO COMPLETO!** ⭐
+
+<br>
+
+---
+
+📍 `damifts` (🧪 AI/ML Lab)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔽  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`dmnplv` (🚀 MAIN HUB)
 
 </div>
